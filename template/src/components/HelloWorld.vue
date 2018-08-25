@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>\{{ msg }}</h1>
-    <v-button type="primary"><a href="http://localhost:8080/">Hello JUI Mobile</a></v-button>
+    <v-button type="primary">>Hello JUI Mobile</v-button>
   </div>
 </template>
 
