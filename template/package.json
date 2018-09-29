@@ -27,7 +27,7 @@
   "dependencies": {
     "vue": "^2.5.2"{{#router}},
     "vue-router": "^3.0.1"{{/router}},
-    "jui-mobile": "^0.0.3"
+    "jui-mobile": "^1.0.0"
   },
   "devDependencies": {
     {{#lint}}
